@@ -1,0 +1,13 @@
+- how to encaspulate between files?
+- what fields to put in a stateful widget and what to put in its state
+- doesn't appbar automatically have primary color as background?
+    not in material3, apparently
+- what does thi mean?   
+    const AppointmentTime({super.key});
+- is there no private access?
+- what's a mixin?
+
+Function URL (addmessage(asia-southeast1)): https://addmessage-sot2ypbcla-as.a.run.app
+Function URL (create_appointment(asia-southeast1)): https://create-appointment-sot2ypbcla-as.a.run.app
+
+Project Console: https://console.firebase.google.com/project/new-firebase-project-6b9d3/overview
